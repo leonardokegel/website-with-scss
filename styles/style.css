@@ -1,0 +1,31 @@
+header, .contact {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+  color: black;
+  background: lightblue;
+}
+
+.btn {
+  font-size: 16px;
+  padding: 16px;
+  color: black;
+}
+.btn--primary {
+  background: rgb(219, 57, 198);
+}
+.btn--secundary {
+  background: rgb(71, 211, 35);
+}
+
+.contact {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  background: orange;
+}/*# sourceMappingURL=style.css.map */

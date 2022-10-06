@@ -1,0 +1,22 @@
+@import './variables';
+@import './header';
+
+.btn {
+    font-size: 16px;
+    padding: 16px;
+    color: black;
+
+    &--primary {
+        background: $primaryBtn;
+    }
+
+    &--secundary {
+        background: $secondaryBtn;
+    }
+}
+
+.contact {
+    @include flexCenter(row);
+    @extend header;
+    background: orange;
+}

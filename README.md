@@ -1,1 +1,1 @@
-# website-with-scss
+# Escolhi utilizar o BEM, pois como adicionei backgrounds diferentes para os botões e os botões possuem o mesmo font-size, font-color e padding, implementei apenas a classe modificadora para alterar o background.
